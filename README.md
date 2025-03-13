@@ -1,10 +1,8 @@
-
 # Emerald Night
 
 This theme is perfect for those who want a sleek and professional look for their editor.
 
 ![Theme preview](./assets/preview.png)
-
 
 ## Sponsor
 
