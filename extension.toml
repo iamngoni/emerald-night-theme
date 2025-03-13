@@ -1,0 +1,19 @@
+id = "emerald-night"
+name = "Emerald Night"
+version = "0.0.1"
+schema_version = 2
+description = "This theme is perfect for those who want a sleek and professional look for their editor."
+repository = "https://github.com/iamngoni/emerald-night-theme"
+authors = ["Ngonidzashe Mangudya <ngmangudya@gmail.com>"]
+themes = ["themes/emerald-night-theme.json"]
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
